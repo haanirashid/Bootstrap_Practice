@@ -1,0 +1,30 @@
+.nav_bg {
+    background-color: #1D267D;
+}
+
+.heading_color {
+    color: #F3F8FF;
+}
+
+.buttons {
+    color: #D4ADFC;
+}
+
+.card_color {
+    background-color: #F3F8FF;
+}
+
+.card_heading {
+    font-size: 24px;
+    color: #1D267D;
+}
+
+.card_text {
+    font-size: 18px;
+    color: #7E30E1;
+}
+
+.label_color{
+    font-size: 18px;
+    color: #1D267D;
+}
